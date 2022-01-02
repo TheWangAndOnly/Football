@@ -25,11 +25,16 @@
 *.rar
 *.tar
 *.zip
+*.cache
 
 # Data #
 ###################
 /open-data
 /data
+
+#ipynb_checkpoints#
+
+.ipynb_checkpoints
 
 # passing-networks-in-python #
 /passing-networks-in-python
